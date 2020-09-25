@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+  <div class="wrapper">
+    <div class="left">
+    
+    
+      <img class="profile-picture" src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSn5wj-CpBN54YcAqEJfmu937lj8ZbIrylLlSna4x8qQnx7C5B_dD8tM1nMgETzgLspqv-7OeiK7gADDQolo4AFCWlIOQt3GZP9x3m4itc&usqp=CAc" width="200"/>
+      <h1 class="name">  Himani  </h1>
+      <h4 class="subtitle">  18  </h4>
+    
+    
+    </div>
+    <div class="right">
+      <p class="bio">
+        
+        You win you earn; You lose you learn!
+      
+      </p>
+      <ul class="social-links">
+        
+        <li><a href="https://github.com/himaniagarwal04">  himaniagarwal04 </a></li>
+      
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
