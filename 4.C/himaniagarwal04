@@ -1,0 +1,9 @@
+#include <stdio.h> 
+ int main()
+  {
+     printf("Hello!\n");
+     printf("Name   : Himani\n");
+     printf("Age    : 18\n");
+     printf("Username : himaniagarwal04\n");
+     return(0);
+  }
